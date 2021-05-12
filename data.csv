@@ -1,0 +1,21 @@
+id,purchase_no,product_name,product_category,unit,product_price,sold_for,discount
+1,100471049,hand bag,accessory,1,15000,15000,0
+2,100693144,ring,accessory,1,7000,7000,0
+3,100604413,Sarong,clothes,1,12000,12000,0
+4,100481263,Cargos,clothes,1,19000,19000,0
+5,100488393,Camisole,clothes,1,21000,21000,0
+6,100591389,Stockings,clothes,1,23000,23000,0
+7,100268026,Skirt,clothes,1,19000,19000,0
+8,100467347,Wooden Flute,instrument,1,10000,10000,0
+9,100336327,Saxophone,instrument,1,11000,11000,0
+10,100375156,Maracas,instrument,1,25000,25000,0
+11,100472978,Recorder,instrument,1,14000,14000,0
+12,100680097,Steel Drums,instrument,1,15000,15000,0
+13,100745667,monitor,electronics,1,21000,21000,0
+14,100474874,bed,furniture,1,25000,25000,0
+15,100741102,mop,cleaning,1,24000,24000,0
+16,100410756,shoes,clothes,1,17000,17000,0
+17,100592443,chair,furniture,1,14000,14000,0
+18,100258494,teddies,toy,1,12000,12000,0
+19,100435691,USB drive,electronics,1,22000,22000,0
+20,100460534,clock,furniture,1,8000,8000,0
